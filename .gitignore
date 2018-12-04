@@ -1,0 +1,8 @@
+*.in
+*.out
+*.exe
+*.zip
+problem.pdf
+img1.png
+testlib.h
+main*.cpp
